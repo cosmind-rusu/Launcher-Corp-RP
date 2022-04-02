@@ -1,0 +1,11 @@
+C:\Users\cosmi\OneDrive\Escritorio\Launcher V2\Launcher Corp\bin\Debug\Launcher Corp.exe.config
+C:\Users\cosmi\OneDrive\Escritorio\Launcher V2\Launcher Corp\bin\Debug\Launcher Corp.exe
+C:\Users\cosmi\OneDrive\Escritorio\Launcher V2\Launcher Corp\bin\Debug\Launcher Corp.pdb
+C:\Users\cosmi\OneDrive\Escritorio\Launcher V2\Launcher Corp\obj\Debug\Launcher Corp.csproj.AssemblyReference.cache
+C:\Users\cosmi\OneDrive\Escritorio\Launcher V2\Launcher Corp\obj\Debug\Launcher Corp.csproj.SuggestedBindingRedirects.cache
+C:\Users\cosmi\OneDrive\Escritorio\Launcher V2\Launcher Corp\obj\Debug\Launcher_Corp.Form1.resources
+C:\Users\cosmi\OneDrive\Escritorio\Launcher V2\Launcher Corp\obj\Debug\Launcher_Corp.Properties.Resources.resources
+C:\Users\cosmi\OneDrive\Escritorio\Launcher V2\Launcher Corp\obj\Debug\Launcher Corp.csproj.GenerateResource.cache
+C:\Users\cosmi\OneDrive\Escritorio\Launcher V2\Launcher Corp\obj\Debug\Launcher Corp.csproj.CoreCompileInputs.cache
+C:\Users\cosmi\OneDrive\Escritorio\Launcher V2\Launcher Corp\obj\Debug\Launcher Corp.exe
+C:\Users\cosmi\OneDrive\Escritorio\Launcher V2\Launcher Corp\obj\Debug\Launcher Corp.pdb
